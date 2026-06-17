@@ -1,4 +1,4 @@
-# 🏛️ IGNWPS — Blockchain Widow Pension Portal
+# IGNWPS — Blockchain Widow Pension Portal
 ### Indira Gandhi National Widow Pension Scheme — Blockchain Administration
 
 > **IBC07 | CSE 542 | Prof. Sanjay Chaudhary**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```
 widow-pension-dapp/
@@ -45,7 +45,7 @@ widow-pension-dapp/
 
 ---
 
-## 🚀 Quick Start (Step-by-Step)
+## Quick Start (Step-by-Step)
 
 ### Prerequisites
 - **Node.js** v18+ (`node --version`)
@@ -151,7 +151,7 @@ Frontend runs on **http://localhost:3000**
 
 ---
 
-## 🎯 Demo Walkthrough
+## Demo
 
 ### As an Applicant (Account #5):
 1. Open http://localhost:3000 → Connect MetaMask (Account #5)
@@ -176,7 +176,7 @@ Frontend runs on **http://localhost:3000**
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -197,7 +197,7 @@ Frontend runs on **http://localhost:3000**
 
 ---
 
-## 🔗 Smart Contract Flow
+## Smart Contract Flow
 
 ```
 Deploy Order:
@@ -217,7 +217,7 @@ Consensus: ceil(totalValidators × 70%) votes needed
 
 ---
 
-## 📝 Key Files
+## Key Files
 
 | File | Purpose |
 |------|---------|
@@ -232,7 +232,7 @@ Consensus: ceil(totalValidators × 70%) votes needed
 
 ---
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 **"Contract not found" error:**  
 → Make sure you ran deploy script and `deployment.json` was created in `frontend/src/config/`
